@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FraserWPKent
 - 👀 I’m interested in baking, data structures, and tech.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React and Node.Js based web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please reach me at FWPKent@gmail.com
 - 😄 Pronouns: He/HIm
